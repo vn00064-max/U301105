@@ -17,4 +17,4 @@ This repository contains the assignments completed during the weekday Generative
 3. Assignment 3
 	- Folder: A3
 	- File: Asgm3.docx
-"# U301105" 
+
